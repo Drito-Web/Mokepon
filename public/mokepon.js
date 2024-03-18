@@ -90,11 +90,11 @@ class Mokepon {
     }
 }
 
-let hipodoge = new Mokepon('Hipodoge', './public/assets/mokepons_mokepon_hipodoge_attack.png', 5, './assets/hipodoge.png')
+let hipodoge = new Mokepon('Hipodoge', './public/assets/mokepons_mokepon_hipodoge_attack.png', 5, '.public/assets/hipodoge.png')
 
-let capipepo = new Mokepon('Capipepo', './public/assets/mokepons_mokepon_capipepo_attack.png', 5, './assets/capipepo.png')
+let capipepo = new Mokepon('Capipepo', './public/assets/mokepons_mokepon_capipepo_attack.png', 5, '.public/assets/capipepo.png')
 
-let ratigueya = new Mokepon('Ratigueya', './public/assets/mokepons_mokepon_ratigueya_attack.png', 5, './assets/ratigueya.png')
+let ratigueya = new Mokepon('Ratigueya', './public/assets/mokepons_mokepon_ratigueya_attack.png', 5, '.public/assets/ratigueya.png')
 
 
 const HIPODOGE_ATAQUES = [
