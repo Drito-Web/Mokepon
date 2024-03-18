@@ -189,7 +189,7 @@ function seleccionarMascotaJugador() {
         return
     }
 
-    sectionSeleccionarMascota.style.display = 'none'
+    sectionSeleccionarMascota.style.display = 'flex'
 
     seleccionarMokepon(mascotaJugador)
 
